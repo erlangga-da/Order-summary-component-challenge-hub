@@ -10,6 +10,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful Resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -36,7 +37,11 @@ Users should be able to:
 - HTML5
 - CSS
 
+### Useful resources
+
+- [Box Shadow Generator](https://www.example.com) - This helped me for generating box shadow a lot easier.
+
 ## Author
 
-- Website - [erlangga-da](https://www.your-site.com)
-- Frontend Mentor - [@erlangga-da](https://www.frontendmentor.io/profile/yourusername)
+- Website - [erlangga-da](https://erlangga-da.github.io/cv-erlangga/)
+- Frontend Mentor - [@erlangga-da](https://www.frontendmentor.io/profile/erlangga-da)
