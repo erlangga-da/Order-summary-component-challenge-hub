@@ -21,6 +21,9 @@ body {
   width: fit-content;
   height: fit-content;
   margin: 50px auto;
+  box-shadow: 0px 10px 27px -6px rgba(114, 128, 167, 0.36);
+  /* -webkit-box-shadow: 2px 10px 45px -6px rgba(114, 128, 167, 0.66);
+  -moz-box-shadow: 2px 10px 45px -6px rgba(114, 128, 167, 0.66); */
 }
 
 .card-container .img img {
@@ -90,12 +93,15 @@ body {
   width: 360px;
   cursor: pointer;
   transition: 0.5s;
-  box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, .45);
-  -webkit-box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, .45);
-  -moz-box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, .45);
+  box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, 0.45);
+  -webkit-box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, 0.45);
+  -moz-box-shadow: 0px 13px 25px -1px rgba(114, 128, 167, 0.45);
 }
 .btn-primary:hover {
   background: #766cf1;
+}
+.btn-primary:focus {
+  outline: none;
 }
 
 .cancel {
@@ -115,10 +121,10 @@ body {
   .container {
     background-image: url("./images/pattern-background-mobile.svg");
   }
-  .card-container{
+  .card-container {
     width: 90%;
   }
-  .container .desc{
+  .container .desc {
     padding: 35px 20px;
   }
   .card-container .desc h2 {
@@ -130,10 +136,10 @@ body {
   .plan-container .text-wrapper {
     width: 160px;
   }
-  .btn-primary{
+  .btn-primary {
     width: 100%;
   }
-  .cancel{
+  .cancel {
     margin-bottom: 0px;
   }
 }
