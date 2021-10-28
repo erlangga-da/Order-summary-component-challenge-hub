@@ -2,12 +2,12 @@ body {
   font-family: "Red Hat Display", sans-serif;
   font-size: 16px;
   color: hsl(224, 23%, 55%);
+  background-color: hsl(225, 100%, 94%);
 }
 
 .container {
   background-image: url("./images/pattern-background-desktop.svg");
   background-repeat: no-repeat;
-  background-color: hsl(225, 100%, 94%);
   width: 100%;
   height: fit-content;
   display: flex;
@@ -26,6 +26,7 @@ body {
 .card-container .img img {
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
+  width: 100%;
 }
 
 .container .desc {
@@ -108,4 +109,31 @@ body {
 }
 .cancel:hover {
   color: hsl(223, 47%, 23%);
+}
+
+@media screen and (max-width: 530px) {
+  .container {
+    background-image: url("./images/pattern-background-mobile.svg");
+  }
+  .card-container{
+    width: 90%;
+  }
+  .container .desc{
+    padding: 35px 20px;
+  }
+  .card-container .desc h2 {
+    font-size: 22px;
+  }
+  .card-container .desc p {
+    width: 90%;
+  }
+  .plan-container .text-wrapper {
+    width: 160px;
+  }
+  .btn-primary{
+    width: 100%;
+  }
+  .cancel{
+    margin-bottom: 0px;
+  }
 }
