@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://your-solution-url.com)
+- Live Site URL: [Live Site](https://erlangga-da.github.io/Order-summary-component-challenge-hub/)
 
 ## My process
 
@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Box Shadow Generator](https://www.example.com) - This helped me for generating box shadow a lot easier.
+- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me for generating box shadow a lot easier.
 
 ## Author
 
