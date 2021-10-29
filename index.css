@@ -36,7 +36,7 @@ body {
   padding: 55px 45px;
 }
 
-.card-container .desc h2 {
+.card-container .desc h1 {
   color: hsl(223, 47%, 23%);
   font-size: 28px;
   font-weight: 900;
@@ -127,7 +127,7 @@ body {
   .container .desc {
     padding: 35px 20px;
   }
-  .card-container .desc h2 {
+  .card-container .desc h1 {
     font-size: 22px;
   }
   .card-container .desc p {
