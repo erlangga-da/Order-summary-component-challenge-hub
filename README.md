@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/order-summary-component-challenge-HRYsJJZdL)
 - Live Site URL: [Live Site](https://erlangga-da.github.io/Order-summary-component-challenge-hub/)
 
 ## My process
