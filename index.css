@@ -7,7 +7,7 @@ body {
 .container {
   background-color: hsl(225, 100%, 94%);
   background-image: url("./images/pattern-background-desktop.svg");
-  background-repeat-y: no-repeat;
+  background-repeat: no-repeat;
   width: 100%;
   min-height: 100vh;
   display: flex;
